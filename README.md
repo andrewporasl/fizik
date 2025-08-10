@@ -57,7 +57,7 @@ npm install
 
 Create .env files in both fizik-server and fizik-client (see .env.example for the format).
 
-Example .env for backend (already in the repo but if you see it here first ig it helps):
+Example .env for backend (already in the repo, but if you see it here first ig it helps):
 
 ```env
 PORT=5000
@@ -72,15 +72,15 @@ Backend will run at http://localhost:5000 (or .env PORT value)
 
 ## Login
 
-<img width="1160" height="608" alt="image" src="https://github.com/user-attachments/assets/c66d10c3-f3e0-4582-8e30-9cb22767adc9" />
+<img width="1920" height="967" alt="image" src="https://github.com/user-attachments/assets/1f7aa7b3-3140-494b-9f91-f0883ce12878" />
 
 ## Dashboard
 
-<img width="1306" height="955" alt="image" src="https://github.com/user-attachments/assets/46bcaf8f-c7e5-4fe2-b604-30067b542d10" />
+<img width="1923" height="968" alt="image" src="https://github.com/user-attachments/assets/1cb7fb86-bae3-4cc7-9b0f-27ac12365e40" />
 
 ## Progress
 
-<img width="904" height="821" alt="image" src="https://github.com/user-attachments/assets/08fe2c93-faba-4691-9a67-8e96ccbf8c28" />
+<img width="1920" height="968" alt="image" src="https://github.com/user-attachments/assets/4e01077c-0869-4d63-b9f7-2f352d0ce01b" />
 
 
 ### Dev. Roadmap
