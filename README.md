@@ -72,15 +72,15 @@ Backend will run at http://localhost:5000 (or .env PORT value)
 
 ## Login
 
-<img width="1920" height="967" alt="image" src="https://github.com/user-attachments/assets/1f7aa7b3-3140-494b-9f91-f0883ce12878" />
+<img width="1915" height="959" alt="image" src="https://github.com/user-attachments/assets/bf6e23e6-65dc-46bb-9373-1e235b37512a" />
 
 ## Dashboard
 
-<img width="1923" height="968" alt="image" src="https://github.com/user-attachments/assets/1cb7fb86-bae3-4cc7-9b0f-27ac12365e40" />
+<img width="1918" height="937" alt="image" src="https://github.com/user-attachments/assets/3a4ee112-bc2d-4ed9-b5f0-24760e1bf545" />
 
 ## Progress
 
-<img width="1920" height="968" alt="image" src="https://github.com/user-attachments/assets/4e01077c-0869-4d63-b9f7-2f352d0ce01b" />
+<img width="1918" height="934" alt="image" src="https://github.com/user-attachments/assets/b95a3dae-cdc4-41ba-b0c2-00e479ffede5" />
 
 
 ### Dev. Roadmap
