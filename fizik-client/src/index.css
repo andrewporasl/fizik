@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Light baseline */
+:root { color-scheme: light; }
+html, body, #root { height: 100%; }
+body { @apply bg-slate-50 text-slate-900 antialiased; }
+
+/* Comfortable, consistent inputs on mobile */
+@layer base {
+  input, select, textarea {
+    @apply w-full rounded-xl border border-slate-300 bg-white px-4 py-3 text-base
+           placeholder-slate-400 focus:border-slate-500 focus:outline-none focus:ring focus:ring-slate-200;
+  }
+  button {
+    @apply focus:outline-none focus:ring focus:ring-slate-200;
+  }
+}
+
+/* Card utility (nice on mobile) */
+@layer components {
+  .card {
+    @apply rounded-2xl border bg-white shadow-sm;
+  }
+  .card-pad {
+    @apply p-4 sm:p-6;
+  }
+}
