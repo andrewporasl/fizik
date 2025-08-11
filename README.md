@@ -34,7 +34,7 @@ It helps users log workouts, track progress, and view past sessions — accessib
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/fizik.git
+git clone https://github.com/andrewporasl/fizik.git
 cd fizik
 ```
 ### 2. Install dependencies
