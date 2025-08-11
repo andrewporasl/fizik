@@ -39,6 +39,14 @@ cd fizik
 ```
 ### 2. Install dependencies
 
+## Install Node Package Manager
+
+Run in ```../fizik``` root folder:
+
+```bash
+npm install
+```
+
 ## Backend
 
 ```bash
